@@ -1,14 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - S4815162342
+#  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+   - S4815162342/haskellbook-exercises
+#  - alshedivat/al-folio
+#  - jekyll/jekyll
+#  - twbs/bootstrap
+#  - jquery/jquery
+#  - FortAwesome/Font-Awesome
+#  - mathjax/MathJax
+#  - jpswalsh/academicons
