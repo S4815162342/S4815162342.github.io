@@ -6,6 +6,7 @@ repo_description_lines_max: 2
 
 github_repos:
    - S4815162342/haskellbook-exercises
+   - S4815162342/heterotic-dft
 #  - alshedivat/al-folio
 #  - jekyll/jekyll
 #  - twbs/bootstrap
