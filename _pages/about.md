@@ -31,6 +31,8 @@ I am a theoretical physics PhD student based in Bariloche, Argentina.
 
 Within the broad landscape of String Theory, I study how stringy phenomena can be embedded into quantum field theories through the Double Field Theory formalism. I’m also interested in the web of dualities that connect all consistent string theories, with a second focus on constructing heterotic string theory/M-theory dual models.
 
+I am also interested in AI benchmarking, especially in the context of physical and mathematical reasoning, as a first step towards AI-augmented scientific discovery.
+
 Beyond physics, I have a love for Renaissance music, functional programming, and reading across genres.
 
 I believe there are no uninteresting topics if we are willing to get interested.
