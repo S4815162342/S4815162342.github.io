@@ -207,6 +207,7 @@ exclude:
   - _teaching/
   - _pages/teaching
   - _pages/publications
+  - _pages/repositories
 keep_files:
   - CNAME
   - .nojekyll
