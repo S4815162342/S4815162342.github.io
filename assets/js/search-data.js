@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Below you can find my Github repositories.",
+          description: "Some Haskell fun here.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
