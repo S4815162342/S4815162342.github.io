@@ -23,12 +23,24 @@
     <img
       class="only-light w-100"
       alt="{{ include.username }}"
-      src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_light }}&locale={{ lang }}&show_icons=true"
+      {% comment %}
+      Luli: Ésto es lo que estaba antes, antes que romper todo pa siempre lo dejo comentado.
+src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_light }}&locale={{ lang }}&show_icons=true"
     >
     <img
       class="only-dark w-100"
       alt="{{ include.username }}"
       src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&locale={{ lang }}&show_icons=true"
+    >
+  </a>
+</div>
+{% endcomment %}
+      src="https://github-readme-stats-beryl-gamma-41.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_light }}&locale={{ lang }}&show_icons=true"
+    >
+    <img
+      class="only-dark w-100"
+      alt="{{ include.username }}"
+      src="https://github-readme-stats-beryl-gamma-41.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&locale={{ lang }}&show_icons=true"
     >
   </a>
 </div>
