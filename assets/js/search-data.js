@@ -110,13 +110,6 @@ ninja.data = [{
           window.open("https://github.com/S4815162342", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://cafecito.app/lucia-en-fisica", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
