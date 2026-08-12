@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "Papers and preprints in mathematical physics and AI evaluation.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "Some Haskell fun here.",
