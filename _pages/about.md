@@ -33,7 +33,7 @@ Within the broad landscape of String Theory, I study how stringy phenomena can b
 
 Alongside my physics research, I work on AI evaluation and benchmarking, designing adversarial tests of mathematical and physical reasoning and studying failure modes in large language models. 
 
-Beyond physics, I have a love for Renaissance music, functional programming, and reading across genres.
+Beyond physics and AI, I have a love for Renaissance music, functional programming, and reading across genres.
 
 I believe there are no uninteresting topics if we are willing to get interested.
 
