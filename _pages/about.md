@@ -27,11 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a theoretical physics PhD student based in Bariloche, Argentina. 
+I am a theoretical physics PhD candidate based in Bariloche, Argentina. 
 
 Within the broad landscape of String Theory, I study how stringy phenomena can be embedded into quantum field theories through the Double Field Theory formalism. A second focus of my work is on constructing heterotic string theory/M-theory dual models.
 
-I'm also interested in AI benchmarking, especially in the context of physical and mathematical reasoning, as a first step towards AI-augmented scientific discovery.
+Alongside my physics research, I work on AI evaluation and benchmarking, designing adversarial tests of mathematical and physical reasoning and studying failure modes in large language models. 
 
 Beyond physics, I have a love for Renaissance music, functional programming, and reading across genres.
 
